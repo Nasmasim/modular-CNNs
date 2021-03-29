@@ -22,6 +22,12 @@ The ResNet-18 in [ResNet18.py](https://github.com/Nasmasim/modular-CNNs/blob/mai
 <p align="center">
 <b>Some Links:</b>
 <img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature1.png" width="50%">
+
+</p>
+
+<p align="center">
+  <b>Some Links:</b><br>
+  <br><br>
 <img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature2.png" width="50%">
 <img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature3.png" width="50%">
 <img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature4.png" width="50%">
