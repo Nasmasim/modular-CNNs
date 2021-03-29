@@ -1,5 +1,5 @@
 # Convolutional Neural Networks from scratch
-Custom implementation of CNN layers (equivalent to ```PyTorch``` and ResNet-18 on CIFAR-10 dataset
+Custom implementation of CNN layers (equivalent to ```PyTorch```) and ResNet-18 on CIFAR-10 dataset
 
 ## Project Structure 
 ### Custom CNN Layers
@@ -17,3 +17,15 @@ Implementation of the Deep Residual Learning architecture by He, Kaiming, et al.
 The ResNet-18 in [ResNet18.py](https://github.com/Nasmasim/modular-CNNs/blob/main/ResNet18.py) is trained on the CIFAR-10 dataset. 
 
 ### Visualising Feature maps 
+[visualize_features.py](https://github.com/Nasmasim/modular-CNNs/blob/main/visualize_features.py) allows to visualise feature maps computed by different layers of the network. 
+
+<p align="center">
+<img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature1.png" width="50%">
+<img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature2.png" width="50%">
+<img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature3.png" width="50%">
+<img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature4.png" width="50%">
+<img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature5.png" width="50%">
+</p>
+
+
+
