@@ -1,5 +1,5 @@
 # Convolutional Neural Networks from scratch
-Custom implementation of CNN layers without using torch.nn modules and ResNet-18 on the CIFAR-10 dataset.
+Custom implementation of CNN layers without using torch.nn modules and ResNet-18 with ```Pytorch```on the CIFAR-10 dataset.
 
 ## Project Structure 
 ### Custom CNN Layers
