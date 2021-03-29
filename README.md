@@ -23,16 +23,16 @@ Implementation of the Deep Residual Learning architecture by He, Kaiming, et al.
      <td>layer2</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature1.png" width="60%"></td>
-    <td><img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature2.png" width="60%"></td>
-    <td><img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature3.png" width="60%"></td>
+    <td><img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature1.png" width="90%"></td>
+    <td><img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature2.png" width="90%"></td>
+    <td><img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature3.png" width="90%"></td>
   </tr>
   <tr>
     <td>layer3</td>
      <td>layer4</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature4.png" width="60%"></td>
-    <td><img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature5.png" width="60%"></td>
+    <td><img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature4.png" width="90%"></td>
+    <td><img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature5.png" width="90%"></td>
   </tr>
  </table>
