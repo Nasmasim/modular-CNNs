@@ -44,8 +44,8 @@ Implementation of the Deep Residual Learning architecture by He, Kaiming, et al.
      <td>layer2</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature1.png" width=270 height=480></td>
-    <td><img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature2.png" width=270 height=480></td>
-    <td><img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature3.png" width=270 height=480></td>
+    <td><img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature1.png" width="30%"></td>
+    <td><img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature2.png" width="30%"></td>
+    <td><img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature3.png" width="30%"></td>
   </tr>
  </table>
