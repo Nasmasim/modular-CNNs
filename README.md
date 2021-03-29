@@ -20,17 +20,32 @@ The ResNet-18 in [ResNet18.py](https://github.com/Nasmasim/modular-CNNs/blob/mai
 [visualize_features.py](https://github.com/Nasmasim/modular-CNNs/blob/main/visualize_features.py) allows to visualise feature maps computed by different layers of the network. 
 
 <p align="center">
-<b>Some Links:</b>
+  <b>conv1:</b><br>
+  <br><br>
 <img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature1.png" width="50%">
-
 </p>
 
 <p align="center">
-  <b>Some Links:</b><br>
+  <b>layer1:</b><br>
   <br><br>
 <img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature2.png" width="50%">
+</p>
+
+<p align="center">
+  <b>layer2:</b><br>
+  <br><br>
 <img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature3.png" width="50%">
+</p>
+
+<p align="center">
+  <b>layer3:</b><br>
+  <br><br>
 <img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature4.png" width="50%">
+</p>
+
+<p align="center">
+  <b>layer4:</b><br>
+  <br><br>
 <img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature5.png" width="50%">
 </p>
 
