@@ -16,27 +16,6 @@ Implementation of the Deep Residual Learning architecture by He, Kaiming, et al.
 
 ### Visualising Feature maps 
 [visualize_features.py](https://github.com/Nasmasim/modular-CNNs/blob/main/visualize_features.py) allows to visualise feature maps computed by different layers of the network. 
-<p align="center">
-  <b>conv1:</b><br>
-<img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature1.png" width="30%">
-</p>
-<p align="center">
-  <b>layer1:</b><br>
-<img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature2.png" width="30%">
-</p>
-<p align="center">
-  <b>layer2:</b><br>
-<img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature3.png" width="30%">
-</p>
-<p align="center">
-  <b>layer3:</b><br>
-<img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature4.png" width="30%">
-</p>
-<p align="center">
-  <b>layer4:</b><br>
-<img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature5.png" width="30%">
-</p>
-
 <table>
   <tr>
     <td>conv1</td>
@@ -44,16 +23,16 @@ Implementation of the Deep Residual Learning architecture by He, Kaiming, et al.
      <td>layer2</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature1.png" width="50%"></td>
-    <td><img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature2.png" width="50%"></td>
-    <td><img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature3.png" width="50%"></td>
+    <td><img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature1.png" width="60%"></td>
+    <td><img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature2.png" width="60%"></td>
+    <td><img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature3.png" width="60%"></td>
   </tr>
   <tr>
     <td>layer3</td>
      <td>layer4</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature4.png" width="50%"></td>
-    <td><img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature5.png" width="50%"></td>
+    <td><img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature4.png" width="60%"></td>
+    <td><img src="https://github.com/Nasmasim/modular-CNNs/blob/main/figures/feature5.png" width="60%"></td>
   </tr>
  </table>
